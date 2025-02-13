@@ -88,4 +88,4 @@ This feature allows users to select an album from their Facebook photos, preview
 - Diagrams for **Use Cases, Sequence Flow, and Class Structure** are included in the project documentation.
 - Ensure you have a valid Facebook login session for API access.
 
-### You can view the UML's in the attached Picture folder
+** You can view the UML's in the attached Picture folder
