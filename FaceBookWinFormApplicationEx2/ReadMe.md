@@ -96,3 +96,5 @@ The use of **Proxy, Factory Method, and Singleton** patterns significantly impro
 - **User Experience** – By using asynchronous programming and efficient data binding.
 
 This design ensures a **scalable, maintainable, and high-performance** desktop application for interacting with Facebook.
+
+** You can view the UML's in the attached docx file
