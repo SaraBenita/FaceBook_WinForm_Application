@@ -10,6 +10,8 @@ This project is a desktop application that integrates with the **Facebook API**,
 ### Description
 This feature provides an interactive game where the user must guess the date a randomly selected photo was taken. The system randomly selects an album and a photo from that album, and the user must choose a date. Based on their selection, they receive feedback on whether their guess was correct.
 
+<img src="./Pictures/Feature1.png" alt="A1" width="600">
+
 ### Implementation Details
 - The feature is managed by the class **GuessTheMomentManager**.
 - The user interacts with the feature through functions located in **FormMain**.
@@ -37,6 +39,8 @@ This feature provides an interactive game where the user must guess the date a r
 
 ### Description
 This feature allows users to select an album from their Facebook photos, preview its contents, and download it to a specified directory on their computer.
+
+<img src="./Pictures/Feature2.png" alt="A1" width="600">
 
 ### Implementation Details
 - The user selects an album from a dropdown list.
