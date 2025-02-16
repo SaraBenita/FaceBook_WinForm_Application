@@ -60,7 +60,3 @@ This project is an extension of an existing Facebook album and photo management 
 
 ## UML Diagrams
 - **Sequence Diagram** and **Class Diagram** can be found in the `UML_Diagrams` directory.
-
-## Contributors
-- **Aviv Natan** (209518844)
-- **Sara Benita** (209297225)
